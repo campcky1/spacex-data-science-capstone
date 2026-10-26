@@ -1,0 +1,5 @@
+Model,CV_Accuracy,Test_Accuracy,Parameters
+SVM,0.786,0.786,"{'model__C': 10, 'model__kernel': 'linear'}"
+Logistic regression,0.738,0.786,{'model__C': 10}
+Decision tree,0.738,0.643,"{'max_depth': 3, 'min_samples_leaf': 3}"
+KNN,0.738,0.571,{'model__n_neighbors': 3}

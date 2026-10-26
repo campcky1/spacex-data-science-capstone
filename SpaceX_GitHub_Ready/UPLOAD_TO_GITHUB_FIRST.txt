@@ -1,0 +1,1 @@
+Unzip SpaceX_GitHub_Ready.zip. Create a PUBLIC GitHub repository, and upload the contents of the SpaceX_GitHub_Ready folder. Then put the resulting github.com/<your-account>/<repository> URL on the presentation slides and export a new PDF. See README.md for limitations: original IBM notebooks are still unexecuted and repository upload alone does not guarantee passing.
